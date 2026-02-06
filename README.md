@@ -1,22 +1,16 @@
 <div align="center">
 
+  <img src="https://media1.tenor.com/m/Xw170S7yVukAAAAC/broly-dragon-ball-super.gif" width="100%" style="border-radius: 15px; margin-bottom: 20px;" alt="Dragon Ball Super Broly" />
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Hi+%F0%9F%91%8B+I'm+Tanmoy;Building+JARVIS+in+Python;Creator:+Satch+Ka+Switch;Stark+OS+Interface+Designer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Tanmoy;Building+JARVIS+in+Python;Creator:+Satch+Ka+Switch;Stark+OS+Interface+Designer" alt="Typing Animation" />
   </a>
 
-  <p>
-    <a href="https://twitter.com/tanmoymaju40558" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://linkedin.com/in/tanmoy-majumder-5511b9338" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://instagram.com/its secrat to give" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-  </p>
-
-  <img src="https://media1.tenor.com/m/Xw170S7yVukAAAAC/broly-dragon-ball-super.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tanmoy44717&theme=flat&no-frame=true&margin-w=15&row=1" alt="GitHub Trophy" />
+  </a>
+  <br/>
 
 </div>
 
@@ -36,6 +30,8 @@ I am a developer focused on **Automation, AI, and Truth**. I don't just write co
 
 ### 🛠️ The Arsenal
 
+<div align="center">
+
 | **Domain** | **Stack** |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,java,php" /> |
@@ -43,17 +39,37 @@ I am a developer focused on **Automation, AI, and Truth**. I don't just write co
 | **Backend/DB** | <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" /> |
 | **Tools/OS** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,android" /> |
 
+</div>
+
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmoy44717&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmoy44717&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="48%" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=tanmoy44717&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmoy44717&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="150" />
+  </p>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/tanmoy44717/tanmoy44717/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/tanmoy44717/tanmoy44717/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+<br/>
+
+### 🤝 Connect with Me
+
+<div align="center"> 
+  <a href="https://twitter.com/tanmoymaju40558" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/tanmoy-majumder-5511b9338" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/its secrat to give" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </div>
