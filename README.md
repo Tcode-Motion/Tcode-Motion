@@ -2,7 +2,7 @@
 
   <h1 align="center">Hi 👋, I'm Tanmoy</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9800&center=true&vCenter=true&width=435&lines=Building+JARVIS+in+Python;Creator:+Satch+Ka+Switch;Stark+OS+Interface+Designer;Super+Saiyan+Developer" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9800&center=true&vCenter=true&width=435&lines=Building+JARVIS+in+Python;Stark+OS+Interface+Designer;Super+Saiyan+Developer;Automating+The+Future" alt="Typing Animation" />
   </a>
 
   <br/>
@@ -15,10 +15,9 @@
 
 ### 🚀 About Me & The Mission
 
-I am a developer focused on **Automation, AI, and Truth**. I don't just write code; I build systems that work.
+I am a developer focused on **Automation, AI, and Innovation**. I don't just write code; I build systems that work.
 
 * 🧠 **Project JARVIS:** Building a personal AI assistant in Python to automate my digital life.
-* 📺 **Satch Ka Switch:** My YouTube channel analyzing the reality of the Indian education & career system.
 * 💻 **Stark OS:** Developing a Sci-Fi User Interface for web environments.
 * 🎨 **Visuals:** Creating 3D particle systems using **Three.js**.
 * 🛡️ **Security:** Exploring penetration testing with Termux tools.
@@ -64,5 +63,5 @@ I am a developer focused on **Automation, AI, and Truth**. I don't just write co
 <br/>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/t1QfHqGgDqUAAAAC/broly-dbs.gif" width="100%" style="border-radius: 15px; border: 2px solid #4CAF50;" alt="Broly Power Up" />
+  <img src="https://media1.tenor.com/m/Xw170S7yVukAAAAC/broly-dragon-ball-super.gif" width="100%" style="border-radius: 15px; border: 2px solid #4CAF50;" alt="Broly Power Up" />
 </div>
