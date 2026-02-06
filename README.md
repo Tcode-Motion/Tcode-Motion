@@ -60,3 +60,9 @@ I am a developer focused on **Automation, AI, and Truth**. I don't just write co
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/t1QfHqGgDqUAAAAC/broly-dbs.gif" width="100%" style="border-radius: 15px; border: 2px solid #4CAF50;" alt="Broly Power Up" />
+</div>
