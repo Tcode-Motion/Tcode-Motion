@@ -1,71 +1,21 @@
-<div align="center">
+# Hello, I'm Tcode-Motion! 👋
 
-  <h1 align="center">Hi 👋, I'm Tanmoy</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9800&center=true&vCenter=true&width=435&lines=Building+JARVIS+in+Python;Stark+OS+Interface+Designer;Super+Saiyan+Developer;Automating+The+Future" alt="Typing Animation" />
-  </a>
+## About Me
 
-  <br/>
-  <img src="https://media1.tenor.com/m/fXHaAkpTzZMAAAAC/goku-super-saiyan.gif" width="100%" style="border-radius: 15px; border: 2px solid #ff9800; margin-bottom: 20px;" alt="Goku Transformation" />
-  <br/>
+I'm a passionate developer who loves coding and contributing to open-source projects. Welcome to my GitHub profile!
 
-</div>
+## Skills
+- JavaScript
+- Python
+- React
+- Node.js
 
----
+## Projects
+- [Project 1](link-to-project-1) - Description of project 1.
+- [Project 2](link-to-project-2) - Description of project 2.
 
-### 🚀 About Me & The Mission
+## Connect with me
+- [LinkedIn](link-to-linkedin)
+- [Twitter](link-to-twitter)
 
-I am a developer focused on **Automation, AI, and Innovation**. I don't just write code; I build systems that work.
-
-* 🧠 **Project JARVIS:** Building a personal AI assistant in Python to automate my digital life.
-* 💻 **Stark OS:** Developing a Sci-Fi User Interface for web environments.
-* 🎨 **Visuals:** Creating 3D particle systems using **Three.js**.
-* 🛡️ **Security:** Exploring penetration testing with Termux tools.
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/01/f9/57/01f9578635c93717551046890f5b90f4.gif" width="100%" style="border-radius: 15px; border: 2px solid #FF9800; margin-top: 20px;" alt="Goku Power Up" />
-</div>
-
----
-
-### 🐍 Contribution Snake Game
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tanmoy44717/tanmoy44717/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-</div>
-
----
-
-### 🛠️ The Arsenal
-
-<div align="center">
-
-| **Domain** | **Stack** |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,java,php" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs" /> |
-| **Backend/DB** | <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" /> |
-| **Tools/OS** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,android" /> |
-
-</div>
-
----
-
-### 🤝 Connect with Me
-
-<div align="center"> 
-  <a href="https://twitter.com/tanmoymaju40558" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/tanmoy-majumder-5511b9338" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/its secrat to give" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/Xw170S7yVukAAAAC/broly-dragon-ball-super.gif" width="100%" style="border-radius: 15px; border: 2px solid #4CAF50;" alt="Broly Power Up" />
-</div>
+Feel free to check out my repositories and contribute!
