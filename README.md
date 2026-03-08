@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-Satch%20Ka%20Switch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SatchKaSwitch)
+[![YouTube](https://img.shields.io/badge/YouTube-Satch%20Ka%20Switch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sachkaswitch?si=I5YcMSg41KZE75Rn)
 [![GitHub](https://img.shields.io/badge/GitHub-Tcode--Motion-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tcode-Motion)
 [![Profile Views](https://komarev.com/ghpvc/?username=Tcode-Motion&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/Tcode-Motion)
 
