@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a0a2e,80:001a3d,100:00d4ff&height=220&section=header&text=TCODE-MOTION&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=⚡%20Building%20Tomorrow's%20Technology%20Today%20⚡&descAlignY=60&descColor=aaaaaa&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a0a2e,80:001a3d,100:00d4ff&height=220&section=header&text=TCODE-MOTION&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=⚡%20Building%20Tomorrow%27s%20Technology%20Today%20⚡&descAlignY=60&descColor=aaaaaa&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+3D+%26+Motion+Web+Developer;🤖+Building+Stark+OS+—+JARVIS+in+the+Browser;🔐+Cybersecurity+%26+Ethical+Hacking+Explorer;📱+React+Native+Android+App+Developer;🧬+Creator+of+a+Secret+Programming+Language;🎥+YouTuber+%40+Sach+Ka+Switch;🌌+I+don't+follow+trends+—+I+set+them;⚡+One+step+ahead.+Always+living+in+the+future.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🚀+3D+%26+Motion+Web+Developer;🤖+Building+Stark+OS+%E2%80%94+JARVIS+in+the+Browser;🔐+Cybersecurity+%26+Ethical+Hacking+Explorer;📱+React+Native+Android+App+Developer;🧬+Inventing+a+New+Programming+Language;💬+WhatsApp+Automation+Without+Official+API;🎥+YouTuber+%40+Sach+Ka+Switch;🌌+I+don%27t+follow+trends+%E2%80%94+I+set+them;⚡+One+step+ahead.+Always+living+in+the+future.)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,10 +23,10 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  "I don't just write code. I architect the future."          ║
-║                                          — Tanmoy / Tcode    ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║   "I don't just write code. I architect the future."             ║
+║                                            — Tanmoy / Tcode      ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -40,18 +40,45 @@ const TcodeMotion = {
   name         : "Tanmoy",
   alias        : "Tcode-Motion",
   location     : "India 🇮🇳",
+  experience   : "2+ Years Practical Coding 💪",
   focus        : ["3D Web Dev", "Motion Design", "AI Systems", "Cybersecurity"],
   currentBuilds: [
-    "🤖 Stark OS — JARVIS-inspired AI OS in the browser",
+    "🤖 Stark OS  — JARVIS-inspired AI OS in the browser",
     "📱 Android App — Built with React Native",
-    "🔐 Kali Mobile OS Simulator — Lightweight hacking lab",
-    "🧬 Secret Programming Language — A new way to code",
+    "🔐 Kali Mobile OS Simulator — Lightweight browser hacking lab",
+    "🧬 New Programming Language — Faster & easier than Python",
+    "💬 WhatsApp Automation — No official API needed",
   ],
-  youtube      : "Sach Ka Switch 🎥 → youtube.com/@sachkaswitch",
+  youtube      : "Sach Ka Switch 🎥  →  youtube.com/@sachkaswitch",
   philosophy   : "One step ahead. Always living in the future. 🌌",
   motto        : "⚡ Predict the future by coding it."
 };
 ```
+
+---
+
+## 🏆 2+ Years of Practical Knowledge
+
+> 💡 *Not just tutorials watched — real projects built, real problems solved.*
+
+<div align="center">
+
+| 🛠 Skill | ⏱ Experience | 💪 Level |
+|:---|:---:|:---:|
+| JavaScript | 2+ Years | ████████░░ Expert |
+| Python | 2+ Years | ███████░░░ Advanced |
+| Three.js / 3D Web | 2+ Years | ████████░░ Expert |
+| React & React Native | 2+ Years | ███████░░░ Advanced |
+| TypeScript | 1.5 Years | ██████░░░░ Proficient |
+| Node.js | 2+ Years | ███████░░░ Advanced |
+| HTML / CSS / Tailwind | 2+ Years | █████████░ Expert |
+| Cybersecurity / Ethical Hacking | 1.5 Years | ██████░░░░ Proficient |
+| Python Automation | 2+ Years | ███████░░░ Advanced |
+| SQL & Databases | 1.5 Years | █████░░░░░ Intermediate |
+| PHP & C# | 1+ Year | ████░░░░░░ Intermediate |
+| Linux / Kali / Ubuntu | 2+ Years | ██████░░░░ Proficient |
+
+</div>
 
 ---
 
@@ -121,17 +148,36 @@ const TcodeMotion = {
 
 | 🔮 Project | 📖 Description | 🛠 Stack | 🚦 Status |
 |:---:|:---|:---:|:---:|
-| [🌍 Solar System](https://github.com/Tcode-Motion/solar-system) | Fully interactive 3D solar system with real orbital mechanics and lighting | Three.js, JS | ✅ Live |
+| [🌍 Solar System](https://github.com/Tcode-Motion/solar-system) | Interactive 3D solar system with real orbital mechanics and lighting | Three.js, JS | ✅ Live |
 | [🖥️ Aurora OS](https://github.com/Tcode-Motion/Aurora-OS.js) | Web-based OS simulator & hacking game — virtual terminal, apps, sandboxed gameplay | TypeScript | ✅ Live |
 | [☁️ Weather Dashboard](https://github.com/Tcode-Motion/weather-dashboard) | Real-time weather UI with dynamic animated visuals and live API | HTML, CSS, JS | ✅ Live |
 | [▶️ YouTube Clone](https://github.com/Tcode-Motion/orchids-youtube-clone-project) | Full YouTube UI clone — responsive layout & component architecture | TypeScript | ✅ Live |
 | [⚡ Arc Reactor](https://github.com/Tcode-Motion/animated-ark-riacter) | Iron Man's Arc Reactor — pure CSS/JS cinematic animation | TypeScript | ✅ Live |
-| [🎬 Netflix Clone](https://github.com/Tcode-Motion) | Full Netflix UI clone with real-time streaming layout & auth | React, Node.js | 🔨 Building |
+| [🎬 Netflix Clone](https://github.com/Tcode-Motion) | Full Netflix UI clone with real-time streaming layout & auth system | React, Node.js | 🔨 Building |
 | [💬 Real-Time Chat App](https://github.com/Tcode-Motion) | Live chat with WebSockets, rooms & real-time notifications | Node.js, JS | 🔨 Building |
 | [📱 Android App](https://github.com/Tcode-Motion) | Native Android app built entirely with React Native | React Native | 🔨 Building |
 | [🤖 Stark OS / JARVIS](https://github.com/Tcode-Motion) | AI-powered browser OS inspired by Iron Man's JARVIS — the flagship project | JS, Python, AI | 🔬 Flagship |
-| [🔐 Kali Mobile Simulator](https://github.com/Tcode-Motion) | Browser-based Kali Linux simulator for lightweight ethical hacking practice | Python, JS | 🧪 Concept |
-| [🧬 Secret Language](https://github.com/Tcode-Motion) | A brand-new programming language built from scratch — syntax, interpreter & runtime | Python, C# | 🔒 Secret |
+| [🔐 Kali Mobile Simulator](https://github.com/Tcode-Motion) | Browser-based Kali Linux for lightweight ethical hacking practice | Python, JS | 🧪 Concept |
+| [🧬 Secret Language](https://github.com/Tcode-Motion) | A brand-new programming language — syntax, interpreter & runtime from scratch | Python, C# | 🔒 Secret |
+
+</div>
+
+---
+
+## 🔭 Upcoming Projects — The Future List
+
+> 🚀 *Things I'm building that don't exist yet. Watch this space.*
+
+<div align="center">
+
+| 🌟 Project | 💡 Concept | 🔥 Why It Matters |
+|:---:|:---|:---|
+| ⚡ **New Programming Language** | Faster execution than Python, simpler syntax than JavaScript — built for the next generation of developers | Python is slow. JS is messy. This fixes both. |
+| 💬 **WhatsApp Automation Engine** | Full automation — send messages, bots, schedulers — **zero official API needed** | Businesses pay $$$. This will be free & powerful. |
+| 🧠 **AI Window Manager** | AI that manages your desktop windows, files & tasks intelligently | Like JARVIS but for your real OS |
+| 🔐 **Kali Mobile OS Sim** | Full Kali Linux hacking environment running in a mobile browser | Ethical hacking from your phone |
+| 🌐 **3D Portfolio Builder** | Drag-and-drop tool to build Three.js portfolios without code | democratize 3D web design |
+| 📡 **Real-Time Collaboration IDE** | Browser-based code editor with live multi-user collaboration & AI suggestions | VS Code Live Share but smarter & browser-native |
 
 </div>
 
@@ -139,27 +185,38 @@ const TcodeMotion = {
 
 ## 📊 GitHub Stats
 
-<!-- ✅ FIX 1: Stats Card — using cache_seconds for stability -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tcode-Motion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true&cache_seconds=86400" height="170"/>
+<!-- Stats & Languages — click to view live -->
+[![GitHub Stats](https://img.shields.io/badge/📊%20GitHub%20Stats-Click%20to%20View-00d4ff?style=for-the-badge&logo=github)](https://github.com/Tcode-Motion)
+[![Top Languages](https://img.shields.io/badge/💻%20Top%20Languages-Click%20to%20View-00d4ff?style=for-the-badge&logo=github)](https://github.com/Tcode-Motion?tab=repositories)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tcode-Motion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true&cache_seconds=86400" height="170" onerror="this.style.display='none'"/>
 &nbsp;&nbsp;
-<!-- ✅ FIX 2: Top Languages — using cache_seconds for stability -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcode-Motion&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&cache_seconds=86400" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcode-Motion&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&cache_seconds=86400" height="170" onerror="this.style.display='none'"/>
 
 </div>
 
-<!-- ✅ FIX 3: Streak — switched from herokuapp.com to demolab.com (most stable host) -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Tcode-Motion&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=ffffff&dates=aaaaaa" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=Tcode-Motion&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=ffffff&dates=aaaaaa" width="65%" onerror="this.style.display='none'"/>
 
 </div>
 
-<!-- ✅ Activity Graph — stable vercel host -->
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tcode-Motion&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff)
+
+</div>
+
+<!-- Fallback animated contribution snake -->
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -172,7 +229,7 @@ const TcodeMotion = {
 > 🎬 *I break down 3D web dev, AI builds, motion design & cybersecurity into real projects.*
 > *Not just tutorials — experiences.*
 
-[![Watch on YouTube](https://img.shields.io/badge/▶%20Watch%20Now-Sach%20Ka%20Switch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sachkaswitch)
+[![Watch on YouTube](https://img.shields.io/badge/▶%20WATCH%20NOW-Sach%20Ka%20Switch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sachkaswitch)
 
 </div>
 
@@ -190,6 +247,7 @@ const TcodeMotion = {
 ║   🔐  Hack ethically. Defend powerfully.                             ║
 ║   📱  Code apps that run everywhere                                  ║
 ║   🧬  Invent new ways to program                                     ║
+║   💬  Automate what everyone says can't be automated                 ║
 ║   🚀  Ship projects that look like the future                        ║
 ║                                                                      ║
 ║        I don't follow the roadmap. I draw it.                        ║
