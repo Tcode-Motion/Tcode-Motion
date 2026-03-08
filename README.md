@@ -139,20 +139,24 @@ const TcodeMotion = {
 
 ## 📊 GitHub Stats
 
+<!-- ✅ FIX 1: Stats Card — using cache_seconds for stability -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tcode-Motion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tcode-Motion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true&cache_seconds=86400" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcode-Motion&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="170"/>
+<!-- ✅ FIX 2: Top Languages — using cache_seconds for stability -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcode-Motion&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&cache_seconds=86400" height="170"/>
 
 </div>
 
+<!-- ✅ FIX 3: Streak — switched from herokuapp.com to demolab.com (most stable host) -->
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tcode-Motion&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=ffffff&dates=aaaaaa" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=Tcode-Motion&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=ffffff&dates=aaaaaa" width="65%"/>
 
 </div>
 
+<!-- ✅ Activity Graph — stable vercel host -->
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tcode-Motion&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff)
