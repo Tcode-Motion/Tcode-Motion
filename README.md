@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🚀+3D+%26+Motion+Web+Developer;🤖+Building+Stark+OS+%E2%80%94+JARVIS+in+the+Browser;🔐+Cybersecurity+%26+Ethical+Hacking+Explorer;📱+React+Native+Android+App+Developer;🧬+Inventing+a+New+Programming+Language;💬+WhatsApp+Automation+Without+Official+API;🎥+YouTuber+%40+Sach+Ka+Switch;⚡+Vibe+Coder+%7C+AI+Power+User;🌌+I+don%27t+follow+trends+%E2%80%94+I+set+them;🔮+One+step+ahead.+Always+living+in+the+future.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🚀+3D+%26+Motion+Web+Developer;🤖+Building+Stark+OS+%E2%80%94+JARVIS+in+the+Browser;🔐+Cybersecurity+%26+Ethical+Hacking+Explorer;📱+React+Native+Android+App+Developer;🧬+Creator+of+TechScript+%E2%80%94+pip+install+techscript;💬+WhatsApp+Automation+Without+Official+API;🎥+YouTuber+%40+Sach+Ka+Switch;⚡+Vibe+Coder+%7C+AI+Power+User;🌌+I+don%27t+follow+trends+%E2%80%94+I+set+them;🔮+One+step+ahead.+Always+living+in+the+future.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,6 +14,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Sach%20Ka%20Switch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sachkaswitch)
 [![GitHub](https://img.shields.io/badge/GitHub-Tcode--Motion-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tcode-Motion)
+[![PyPI](https://img.shields.io/badge/PyPI-techscript-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/techscript)
 [![Profile Views](https://komarev.com/ghpvc/?username=Tcode-Motion&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/Tcode-Motion)
 
 </div>
@@ -44,10 +45,10 @@ const TcodeMotion = {
   style        : "Vibe Coder ⚡ — describe it, ship it, done.",
   focus        : ["3D Web Dev", "Motion Design", "AI Systems", "Cybersecurity"],
   currentBuilds: [
+    "🧬 TechScript — English-like Python lang, live on PyPI → pip install techscript",
     "🤖 Stark OS  — JARVIS-inspired AI OS in the browser",
     "📱 Android App — Built with React Native",
     "🔐 Kali Mobile OS Simulator — Lightweight browser hacking lab",
-    "🧬 New Programming Language — Faster & easier than Python",
     "💬 WhatsApp Automation — No official API needed",
   ],
   aiArsenal    : "30+ cutting-edge AI tools — daily driver 🔥",
@@ -176,7 +177,7 @@ const TcodeMotion = {
 | **Bolt.new** | [bolt.new](https://bolt.new) | Full-stack vibe coding in the browser |
 | **Lovable** | [lovable.dev](https://lovable.dev) | Build full apps by describing them — no code |
 | **Google Stitch** | [stitch.withgoogle.com](https://stitch.withgoogle.com) | AI UI/UX design generator by Google Labs |
-| **Google Antigravity** | [idx.google.com](https://idx.google.com) | Google's AI-native IDE powered by Gemini 3 |
+| **Google IDX** | [idx.google.com](https://idx.google.com) | Google's AI-native IDE powered by Gemini |
 | **Gemini CLI** | [ai.google.dev](https://ai.google.dev/gemini-api/docs/gemini-cli) | Gemini in your terminal — AI coding from CLI |
 | **GitHub Copilot** | [github.com/copilot](https://github.com/features/copilot) | AI pair programmer inside VS Code |
 
@@ -217,9 +218,8 @@ const TcodeMotion = {
 | 🛠 Tool | 🔗 Link | 💡 What I Use It For |
 |:---:|:---:|:---|
 | **Google AI Studio** | [aistudio.google.com](https://aistudio.google.com) | Build & test Gemini AI apps for free |
-| **Google Antigravity** | [idx.google.com](https://idx.google.com) | AI-native IDE for agentic dev workflows |
-| **Open Claude / Bolt** | [bolt.new](https://bolt.new) | Open browser-based full-stack AI dev |
 | **Replit AI** | [replit.com](https://replit.com) | Browser-based coding with AI agent |
+| **Bolt.new** | [bolt.new](https://bolt.new) | Open browser-based full-stack AI dev |
 
 </div>
 
@@ -233,17 +233,18 @@ const TcodeMotion = {
 
 | 🔮 Project | 📖 Description | 🛠 Stack | 🚦 Status |
 |:---:|:---|:---:|:---:|
+| [🧬 TechScript](https://github.com/Tcode-Motion/techscript) | Python-powered programming language with English-like syntax — `pip install techscript` | Python, PyPI | ✅ Live |
+| [🗺️ CPMap](https://github.com/Tcode-Motion/computer-part-map) | Interactive computer hardware encyclopedia — 70+ pages, full-text search, academic links | HTML, JS, Python | ✅ Live |
+| [⚛️ Arc Reactor 3D](https://github.com/Tcode-Motion/arc-reactor-3d) | Scroll-driven Iron Man Arc Reactor — 240 frames, HUD overlays, smooth scroll | Next.js, Framer Motion | ✅ Live |
+| [🎹 AR Keyboard](https://github.com/Tcode-Motion/AR-Keyboard) | Augmented reality virtual keyboard that works on any smartphone browser | Python, JS | ✅ Live |
+| [📸 AR Photo](https://github.com/Tcode-Motion/ar-photo) | Universal marker-based AR photo gallery for any smartphone | HTML, JS | ✅ Live |
 | [🌍 Solar System](https://github.com/Tcode-Motion/solar-system) | Interactive 3D solar system with real orbital mechanics & lighting | Three.js, JS | ✅ Live |
-| [🖥️ Aurora OS](https://github.com/Tcode-Motion/Aurora-OS.js) | Web-based OS simulator & hacking game — virtual terminal & sandboxed gameplay | TypeScript | ✅ Live |
-| [☁️ Weather Dashboard](https://github.com/Tcode-Motion/weather-dashboard) | Real-time weather UI with dynamic animated visuals and live API | HTML, CSS, JS | ✅ Live |
-| [▶️ YouTube Clone](https://github.com/Tcode-Motion/orchids-youtube-clone-project) | Full YouTube UI clone — responsive layout & component architecture | TypeScript | ✅ Live |
-| [⚡ Arc Reactor](https://github.com/Tcode-Motion/animated-ark-riacter) | Iron Man's Arc Reactor — pure CSS/JS cinematic animation | TypeScript | ✅ Live |
+| [🎵 Laya Music](https://github.com/Tcode-Motion/laya-music-player) | Music player with smooth UI and motion animations | TypeScript | ✅ Live |
 | [🎬 Netflix Clone](https://github.com/Tcode-Motion) | Full Netflix UI clone with real-time streaming layout & auth | React, Node.js | 🔨 Building |
 | [💬 Real-Time Chat App](https://github.com/Tcode-Motion) | Live chat with WebSockets, rooms & real-time notifications | Node.js, JS | 🔨 Building |
 | [📱 Android App](https://github.com/Tcode-Motion) | Native Android app built entirely with React Native | React Native | 🔨 Building |
 | [🤖 Stark OS / JARVIS](https://github.com/Tcode-Motion) | AI-powered browser OS inspired by Iron Man's JARVIS — the flagship project | JS, Python, AI | 🔬 Flagship |
 | [🔐 Kali Mobile Simulator](https://github.com/Tcode-Motion) | Browser-based Kali Linux for lightweight ethical hacking practice | Python, JS | 🧪 Concept |
-| [🧬 Secret Language](https://github.com/Tcode-Motion) | A brand-new programming language — syntax, interpreter & runtime from scratch | Python, C# | 🔒 Secret |
 
 </div>
 
@@ -257,7 +258,6 @@ const TcodeMotion = {
 
 | 🌟 Project | 💡 Concept | 🔥 Why It Matters |
 |:---:|:---|:---|
-| ⚡ **New Programming Language** | Faster than Python, simpler than JavaScript — built for the next generation | Python is slow. JS is messy. This fixes both. |
 | 💬 **WhatsApp Automation Engine** | Full automation — bots, schedulers, bulk messaging — **zero official API needed** | Businesses pay $$$. This will be free & powerful. |
 | 🧠 **AI Window Manager** | AI that manages your desktop, files & tasks intelligently | Like JARVIS but for your real OS |
 | 🔐 **Kali Mobile OS Sim** | Full Kali Linux hacking environment running in a mobile browser | Ethical hacking from your phone — anywhere |
@@ -335,6 +335,7 @@ const TcodeMotion = {
 
 [![GitHub Follow](https://img.shields.io/badge/GitHub-Follow%20%40Tcode--Motion-181717?style=for-the-badge&logo=github)](https://github.com/Tcode-Motion)
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@sachkaswitch)
+[![PyPI TechScript](https://img.shields.io/badge/PyPI-pip%20install%20techscript-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/techscript)
 
 </div>
 
