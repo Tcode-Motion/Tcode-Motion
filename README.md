@@ -1,3 +1,28 @@
+<!--
+  ██████████████████████████████████████████████████████████
+  █  Tanmoy · Tcode-Motion                                 █
+  █  3D Web Developer · Python Language Creator            █
+  █  Open Source Builder · India                           █
+  █  TechScript: pip install techscript                    █
+  █  GitHub: github.com/Tcode-Motion                       █
+  ██████████████████████████████████████████████████████████
+-->
+
+<div align="center">
+
+# ⚡ TANMOY · TCODE-MOTION ⚡
+
+### `3D Web Developer` &nbsp;·&nbsp; `Python Language Creator` &nbsp;·&nbsp; `AI Systems Builder` &nbsp;·&nbsp; `Open Source` &nbsp;·&nbsp; `India 🇮🇳`
+
+**Independent developer from West Bengal, India** — building at the intersection of **3D web development**,<br/>
+**programming language design**, **AI systems**, **motion design**, and **ethical hacking**.<br/>
+Creator of **[TechScript](https://github.com/Tcode-Motion/techscript)** — a Python-powered language with English-like syntax, live on **[PyPI](https://pypi.org/project/techscript)**.<br/>
+Vibe coder. One step ahead. Always living in the future.
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a0a2e,80:001a3d,100:00d4ff&height=220&section=header&text=TCODE-MOTION&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=⚡%20Building%20Tomorrow%27s%20Technology%20Today%20⚡&descAlignY=60&descColor=aaaaaa&descSize=18" width="100%"/>
@@ -6,20 +31,17 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🚀+3D+%26+Motion+Web+Developer;🤖+Building+Stark+OS+%E2%80%94+JARVIS+in+the+Browser;🔐+Cybersecurity+%26+Ethical+Hacking+Explorer;📱+React+Native+Android+App+Developer;🧬+Creator+of+TechScript+%E2%80%94+pip+install+techscript;💬+WhatsApp+Automation+Without+Official+API;🎥+YouTuber+%40+Sach+Ka+Switch;⚡+Vibe+Coder+%7C+AI+Power+User;🌌+I+don%27t+follow+trends+%E2%80%94+I+set+them;🔮+One+step+ahead.+Always+living+in+the+future.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=🚀+3D+%26+Motion+Web+Developer;🤖+Building+Stark+OS+%E2%80%94+JARVIS+in+the+Browser;🔐+Cybersecurity+%26+Ethical+Hacking+Explorer;📱+React+Native+Android+App+Developer;🧬+Creator+of+TechScript+%E2%80%94+pip+install+techscript;💬+WhatsApp+Automation+Without+Official+API;⚡+Vibe+Coder+%7C+AI+Power+User;🌌+I+don%27t+follow+trends+%E2%80%94+I+set+them;🔮+One+step+ahead.+Always+living+in+the+future.)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-Sach%20Ka%20Switch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sachkaswitch)
 [![GitHub](https://img.shields.io/badge/GitHub-Tcode--Motion-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tcode-Motion)
 [![PyPI](https://img.shields.io/badge/PyPI-techscript-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/techscript)
 [![Profile Views](https://komarev.com/ghpvc/?username=Tcode-Motion&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/Tcode-Motion)
 
 </div>
-
----
 
 <div align="center">
 
@@ -40,7 +62,7 @@
 const TcodeMotion = {
   name         : "Tanmoy",
   alias        : "Tcode-Motion",
-  location     : "India 🇮🇳",
+  location     : "West Bengal, India 🇮🇳",
   experience   : "2+ Years Practical Coding 💪",
   style        : "Vibe Coder ⚡ — describe it, ship it, done.",
   focus        : ["3D Web Dev", "Motion Design", "AI Systems", "Cybersecurity"],
@@ -48,15 +70,45 @@ const TcodeMotion = {
     "🧬 TechScript — English-like Python lang, live on PyPI → pip install techscript",
     "🤖 Stark OS  — JARVIS-inspired AI OS in the browser",
     "📱 Android App — Built with React Native",
+    "🖼️ WallVault — Sci-fi wallpaper app, 600+ walls, Tauri v2 + React",
     "🔐 Kali Mobile OS Simulator — Lightweight browser hacking lab",
     "💬 WhatsApp Automation — No official API needed",
   ],
   aiArsenal    : "30+ cutting-edge AI tools — daily driver 🔥",
-  youtube      : "Sach Ka Switch 🎥  →  youtube.com/@sachkaswitch",
+  flagship     : "TechScript → pip install techscript 🧬",
   philosophy   : "One step ahead. Always living in the future. 🌌",
   motto        : "⚡ Predict the future by coding it."
 };
 ```
+
+I'm **Tanmoy** — alias **Tcode-Motion** — an independent developer and open source builder from **West Bengal, India**.
+I specialize in **3D web development with Three.js**, **Python programming language design**, **AI systems**,
+**React Native Android development**, **motion design**, and **cybersecurity & ethical hacking**.
+Creator of **[TechScript](https://github.com/Tcode-Motion/techscript)** — a Python-powered language with English-like syntax, published on PyPI.
+I run on **30+ AI tools daily** as a vibe coder — describing ideas, shipping projects, building things most people say can't be done.
+
+---
+
+## 🧬 TechScript — Open Source Python-Powered Programming Language
+
+**TechScript** is a programming language created by **Tanmoy (Tcode-Motion)** that transpiles **English-like `.txs` syntax to Python**.
+Built for developers, students, and educators who want a more readable, approachable way to write code.
+Uses keywords like `make`, `say`, `when`, `each`, and `build` — instead of traditional syntax.
+
+```bash
+# Install TechScript — live on PyPI
+pip install techscript
+```
+
+- 📦 **PyPI:** [pypi.org/project/techscript](https://pypi.org/project/techscript)
+- 💻 **GitHub:** [github.com/Tcode-Motion/techscript](https://github.com/Tcode-Motion/techscript)
+- 🔌 **VS Code Extension** — `.txs` syntax highlighting
+- 🌐 **`use web` module** — auto-generates Flask servers from `.txs` files
+- 📱 **Cross-platform** — Windows · Linux · Android via Termux (`aarch64`)
+- 🐍 **Built on Python** — familiar, powerful, extensible
+
+> Developer, student, educator, or open source contributor?
+> **[Try TechScript →](https://github.com/Tcode-Motion/techscript)** and drop a ⭐ on GitHub.
 
 ---
 
@@ -94,6 +146,8 @@ const TcodeMotion = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -116,6 +170,7 @@ const TcodeMotion = {
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -240,6 +295,7 @@ const TcodeMotion = {
 | [📸 AR Photo](https://github.com/Tcode-Motion/ar-photo) | Universal marker-based AR photo gallery for any smartphone | HTML, JS | ✅ Live |
 | [🌍 Solar System](https://github.com/Tcode-Motion/solar-system) | Interactive 3D solar system with real orbital mechanics & lighting | Three.js, JS | ✅ Live |
 | [🎵 Laya Music](https://github.com/Tcode-Motion/laya-music-player) | Music player with smooth UI and motion animations | TypeScript | ✅ Live |
+| [🖼️ WallVault](https://github.com/Tcode-Motion/os-wallpapers) | Sci-fi wallpaper desktop app — 600+ walls, 14 categories, jsDelivr CDN | Tauri v2, React, TypeScript, Zustand | 🔨 Building |
 | [🎬 Netflix Clone](https://github.com/Tcode-Motion) | Full Netflix UI clone with real-time streaming layout & auth | React, Node.js | 🔨 Building |
 | [💬 Real-Time Chat App](https://github.com/Tcode-Motion) | Live chat with WebSockets, rooms & real-time notifications | Node.js, JS | 🔨 Building |
 | [📱 Android App](https://github.com/Tcode-Motion) | Native Android app built entirely with React Native | React Native | 🔨 Building |
@@ -290,19 +346,6 @@ const TcodeMotion = {
 
 ---
 
-## 🎥 YouTube — Sach Ka Switch
-
-<div align="center">
-
-> 🎬 *I break down 3D web dev, AI builds, vibe coding, motion design & cybersecurity into real projects.*
-> *Not just tutorials — experiences.*
-
-[![Watch on YouTube](https://img.shields.io/badge/▶%20WATCH%20NOW-Sach%20Ka%20Switch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sachkaswitch)
-
-</div>
-
----
-
 ## 🌌 My Vision
 
 <div align="center">
@@ -331,10 +374,9 @@ const TcodeMotion = {
 
 <div align="center">
 
-> 💡 Open to collabs on 3D web, AI, cybersecurity, open source & wild ideas.
+> 💡 Open to collabs on **3D web**, **AI systems**, **cybersecurity**, **open source** & wild ideas.
 
 [![GitHub Follow](https://img.shields.io/badge/GitHub-Follow%20%40Tcode--Motion-181717?style=for-the-badge&logo=github)](https://github.com/Tcode-Motion)
-[![YouTube Subscribe](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@sachkaswitch)
 [![PyPI TechScript](https://img.shields.io/badge/PyPI-pip%20install%20techscript-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/techscript)
 
 </div>
