@@ -16,7 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           # This connects to your user: tanmoy44717
-          github_user_name: tanmoy44717
+          github_user_name: Tcode-Motion
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
