@@ -12,7 +12,7 @@
 
 # ⚡ TANMOY · TCODE-MOTION ⚡
 
-### `3D Web Developer` &nbsp;·&nbsp; `Python Language Creator` &nbsp;·&nbsp; `AI Systems Builder` &nbsp;·&nbsp; `Open Source` &nbsp;·&nbsp; `India 🇮🇳`
+### `3D Web Developer` &nbsp;·&nbsp; `Python Language` &nbsp;·&nbsp; `AI Systems Builder` &nbsp;·&nbsp; `Open Source` &nbsp;·&nbsp; `India 🇮🇳`
 
 **Independent developer from West Bengal, India** — building at the intersection of **3D web development**,<br/>
 **programming language design**, **AI systems**, **motion design**, and **ethical hacking**.<br/>
