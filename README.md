@@ -17,7 +17,7 @@
 **Independent developer from West Bengal, India** — building at the intersection of **3D web development**,<br/>
 **programming language design**, **AI systems**, **motion design**, and **ethical hacking**.<br/>
 Creator of **[TechScript](https://github.com/Tcode-Motion/techscript)** — a Rust powerd language with English-like syntax, live on **[PyPI](https://pypi.org/project/techscript)**.<br/>
- and allso exe abalabe if dont want to run by python
+ and allso exe abalabe if dont want to run by python ,
 Vibe coder. One step ahead. Always living in the future.
 
 </div>
