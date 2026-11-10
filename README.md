@@ -61,7 +61,7 @@
 
 <div align="center">
 
-### 🐍 Contribution Graph & Activity Streak
+###  Contribution Graph & Activity Streak
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tcode-Motion/Tcode-Motion/output/github-contribution-grid-snake-dark.svg">
