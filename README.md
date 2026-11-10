@@ -18,7 +18,7 @@
 | [**Vortyx**](https://github.com/Tcode-Motion/Vortyx) | Android media downloader and download manager, Material 3 UI | Android |
 | [**WallVault**](https://github.com/Tcode-Motion/os-wallpapers) | 600 plus curated OS wallpapers across 14 categories, instant search | Tauri + React |
 | [**MiniVibe&nbsp;Music**](https://github.com/Tcode-Motion/MiniVibe) | Offline music player with EQ and lyrics | Android |
-| VoiceForge | Clone your own voice on your own computer, fully offline | Python + AI |
+| [**VoiceForge**](https://github.com/Tcode-Motion/VoiceForge) | Clone your own voice on your own computer, fully offline | Python + AI |
 | [**Computer&nbsp;Part&nbsp;Map**](https://github.com/Tcode-Motion/computer-part-map) | Interactive hardware encyclopedia with 70 plus pages and visual component explorer | Web |
 | [**Arc&nbsp;Reactor&nbsp;3D**](https://github.com/Tcode-Motion/arc-reactor-3d) | Scroll-driven Iron Man Arc Reactor with HUD overlays | 3D Web |
 | [**Solar&nbsp;System&nbsp;3D**](https://github.com/Tcode-Motion/solar-system) | Interactive 3D solar system with orbital mechanics and WebGL lighting | 3D Web |
