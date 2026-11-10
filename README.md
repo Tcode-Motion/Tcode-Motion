@@ -61,7 +61,11 @@
 
 <div align="center">
 
-###  Contribution Graph & Activity Streak
+<a href="https://tanmoy.is-a.dev/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+systems+that+look+like+they're+from+the+future;5%2C300%2B+Contributions+%C2%B7+Continuous+Building+Mode%3A+ON;TechScript+%F0%9F%90%89+%C2%B7+NovOS+%F0%9F%8C%8C+%C2%B7+KinotiX+%F0%9F%93%B1+%C2%B7+VoiceForge+%F0%9F%8E%99%EF%B8%8F;One+Step+Ahead.+Always.+%E2%9A%A1" alt="Live Typing Status" />
+</a>
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tcode-Motion/Tcode-Motion/output/github-contribution-grid-snake-dark.svg">
@@ -78,13 +82,19 @@
 <br/><br/>
 
 <p align="center">
-  <a href="https://github.com/Tcode-Motion/techscript"><img src="https://img.shields.io/github/stars/Tcode-Motion/techscript?style=for-the-badge&color=0DF28B&labelColor=0a0e14&logo=rust&logoColor=white&label=TechScript%20Stars" alt="TechScript Stars"/></a> &nbsp;
-  <a href="https://github.com/Tcode-Motion/NovOS"><img src="https://img.shields.io/github/stars/Tcode-Motion/NovOS?style=for-the-badge&color=00d4ff&labelColor=0a0e14&logo=safari&logoColor=white&label=NovOS%20Stars" alt="NovOS Stars"/></a> &nbsp;
-  <a href="https://github.com/Tcode-Motion"><img src="https://img.shields.io/github/followers/Tcode-Motion?style=for-the-badge&color=ff9f1c&labelColor=0a0e14&logo=github&logoColor=white&label=Followers" alt="Followers"/></a>
+  <a href="https://github.com/Tcode-Motion/techscript"><img src="https://img.shields.io/badge/⭐%20Star-TechScript-0DF28B?style=for-the-badge&logo=rust&logoColor=black" alt="Star TechScript"/></a> &nbsp;
+  <a href="https://github.com/Tcode-Motion/NovOS"><img src="https://img.shields.io/badge/⭐%20Star-NovOS-00d4ff?style=for-the-badge&logo=safari&logoColor=black" alt="Star NovOS"/></a> &nbsp;
+  <a href="https://github.com/Tcode-Motion/VoiceForge"><img src="https://img.shields.io/badge/⭐%20Star-VoiceForge-FF9F1C?style=for-the-badge&logo=python&logoColor=black" alt="Star VoiceForge"/></a> &nbsp;
+  <a href="https://github.com/Tcode-Motion"><img src="https://img.shields.io/badge/Follow-@Tcode--Motion-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
 </p>
 
-<p align="center"><b>One Step Ahead. Always.</b></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tcode-Motion&style=for-the-badge&color=ff9f1c&label=PROFILE+VIEWS" alt="Profile Views"/> &nbsp;
+  <img src="https://img.shields.io/github/followers/Tcode-Motion?style=for-the-badge&color=00d4ff&labelColor=0a0e14" alt="Followers"/>
+</p>
 
-<p align="center"><sub>Write like a human. Build in public.</sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,35:15213b,70:1d3b52,100:ff9f1c&height=160&section=footer&text=ONE%20STEP%20AHEAD.%20ALWAYS.&fontSize=30&fontColor=00F0FF&animation=fadeIn&fontAlignY=62" alt="Footer waving animation" width="100%"/>
+
+<p align="center"><sub>⚡ Engineered with Rust, 3D Web & AI Coding Agents · Shipped from West Bengal, India</sub></p>
 
 </div>
