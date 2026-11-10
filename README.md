@@ -40,35 +40,6 @@
 
 <img src="./assets/buildvision.svg?v=1" width="100%" alt="How I build: idea, prompt, build, ship, with Claude, Cursor, Claude Code, Copilot, v0, Bolt.new and Google AI Studio for code, and Veo, Sora and Kling AI for video. Vision: languages anyone can read, the web in 3D, operating systems in the browser, handcrafted Android apps, projects from the future." />
 
-### 🐍 Contribution Grid Snake & 📊 Real-Time GitHub Statistics
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tcode-Motion/Tcode-Motion/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tcode-Motion/Tcode-Motion/output/github-contribution-grid-snake.svg">
-  <img alt="Animated snake eating Tcode-Motion's contribution graph" src="https://raw.githubusercontent.com/Tcode-Motion/Tcode-Motion/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tcode-Motion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e14&title_color=ff9f1c&icon_color=00d4ff&text_color=ffffff" alt="Tcode-Motion GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcode-Motion&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e14&title_color=ff9f1c&text_color=ffffff" alt="Tcode-Motion most-used programming languages" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tcode-Motion&theme=tokyo-night&hide_border=true&bg_color=0a0e14&color=00d4ff&line=ff9f1c&point=ffffff&area=true&area_color=00d4ff" alt="Tcode-Motion GitHub contribution activity graph" width="100%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Tcode-Motion&theme=tokyonight&hide_border=true&background=0a0e14&ring=ff9f1c&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=aaaaaa" alt="Tcode-Motion GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tcode-Motion&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,PullRequest,Followers" alt="Tcode-Motion GitHub trophy stats"/>
-
-</div>
-
 <img src="./assets/connect.svg?v=1" width="100%" alt="Let's build what's next. Connect on LinkedIn, watch T Code Motion on YouTube, follow @tcodemotion on Instagram, or find the code on GitHub using the links below." />
 
 <p align="center">
@@ -86,6 +57,34 @@
   <a href="mailto:majumdertanmoy510@gmail.com">majumdertanmoy510@gmail.com</a>
 </p>
 
+---
+
+<div align="center">
+
+### 🐍 Contribution Graph & Activity Streak
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tcode-Motion/Tcode-Motion/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tcode-Motion/Tcode-Motion/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake eating Tcode-Motion's contribution graph" src="https://raw.githubusercontent.com/Tcode-Motion/Tcode-Motion/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<a href="https://github.com/Tcode-Motion">
+  <img src="https://streak-stats.demolab.com/?user=Tcode-Motion&theme=tokyonight&hide_border=true&background=0a0e14&ring=ff9f1c&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=aaaaaa" alt="Tcode-Motion GitHub contribution streak"/>
+</a>
+
+<br/><br/>
+
+<p align="center">
+  <a href="https://github.com/Tcode-Motion/techscript"><img src="https://img.shields.io/github/stars/Tcode-Motion/techscript?style=for-the-badge&color=0DF28B&labelColor=0a0e14&logo=rust&logoColor=white&label=TechScript%20Stars" alt="TechScript Stars"/></a> &nbsp;
+  <a href="https://github.com/Tcode-Motion/NovOS"><img src="https://img.shields.io/github/stars/Tcode-Motion/NovOS?style=for-the-badge&color=00d4ff&labelColor=0a0e14&logo=safari&logoColor=white&label=NovOS%20Stars" alt="NovOS Stars"/></a> &nbsp;
+  <a href="https://github.com/Tcode-Motion"><img src="https://img.shields.io/github/followers/Tcode-Motion?style=for-the-badge&color=ff9f1c&labelColor=0a0e14&logo=github&logoColor=white&label=Followers" alt="Followers"/></a>
+</p>
+
 <p align="center"><b>One Step Ahead. Always.</b></p>
 
 <p align="center"><sub>Write like a human. Build in public.</sub></p>
+
+</div>
